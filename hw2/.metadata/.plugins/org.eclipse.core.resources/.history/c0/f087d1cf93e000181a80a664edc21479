@@ -1,0 +1,80 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@ page import="java.util.List"%>
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>KarafTwitterAPI</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+hr {
+	border: none;
+	height: 1px;
+	color: #780;
+	background-color: #333;
+}
+body {
+   background-image: url("..//WEB-INF//twitter-cover.jpg");
+   
+}
+</style>
+</head>
+<body style="margin: 0px 0px 0px 20px;">
+	<h2><i>Choice the Twitter API</i></h2>
+	<br>
+	<div class="panel panel-primary">
+	 <div class="btn-group">
+ 
+   
+  </div> 
+	<form action="executeApi" method="POST">
+		<input type="text" name="value" value=""> 
+		<select name="twitteroptions">
+			<option value="Status Update">Status Update</option>
+			<option value="Create Friendship">Create Friendship</option>
+			<option value="Destroy Friendship">Destroy Friendship</option>
+			<option value="List Friends ids">List Friends IDs</option>
+			<option value="list Followers ids">List Followers IDs</option>
+			<option value="Followers List">Followers List</option>
+			<option value="Friends List">Friends List</option>
+			<option value="Blocks IDs">Block IDs</option>
+			<option value="Blocks List">Block users</option>
+			</select> <input type="submit" value="Submit" />
+	</form>
+	<br>
+	<br>
+	<div class="panel panel-primary">
+		<%
+			try {
+				if (session.getAttribute("option") != null) {
+		%>
+		<div class="panel-heading"><%=session.getAttribute("option")%></div>
+		<%
+			}
+
+				if (session.getAttribute("twitterResponse") != null) {
+					List<String> responses = (List<String>)session.getAttribute("twitterResponse");
+
+					for (String resp : responses) {
+		%>
+		<div class="panel-body"><%=resp%></div>
+		<hr>
+		<%
+			}
+				}
+			} catch (Exception e) {
+			}
+		%>
+	</div>
+</body>
+</html>
+

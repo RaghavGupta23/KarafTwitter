@@ -1,0 +1,187 @@
+2018-11-04 15:06:59,594 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: KarafTwitterAPI:KarafTwitterAPI:0.0.1-SNAPSHOT @ C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\pom.xml.
+2018-11-04 15:07:07,591 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /KarafTwitterAPI/src
+2018-11-04 15:07:07,592 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /KarafTwitterAPI/src/test/java because it overlaps with /KarafTwitterAPI/src
+2018-11-04 15:07:08,319 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 19 sec
+2018-11-04 15:07:10,900 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 15:07:10,966 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 15:07:10,970 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 15:07:11,036 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 15:34:18,394 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 15:34:18,402 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 15:34:18,403 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 15:34:18,407 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:43:28,900 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:43:28,917 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:43:28,918 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:43:28,923 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:45:41,196 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:45:41,212 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:45:41,214 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:45:41,225 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:46:04,863 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:46:04,875 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:46:04,880 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:46:04,885 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:46:20,770 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:46:20,776 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:46:20,777 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:46:20,784 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:46:30,533 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:46:30,544 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:46:30,549 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:46:30,562 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:47:29,360 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:47:29,365 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:47:29,368 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:47:29,376 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:54:56,280 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 16:54:56,285 [Worker-49] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-11-04 16:55:00,685 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:55:00,696 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:55:00,704 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:55:00,724 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:55:00,733 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of KarafTwitterAPI
+2018-11-04 16:55:00,735 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for KarafTwitterAPI
+2018-11-04 16:55:00,853 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:57:30,955 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:57:30,987 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:57:30,988 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:57:31,032 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 16:59:29,034 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 16:59:29,041 [Worker-40] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 16:59:33,622 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:59:33,644 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 16:59:33,652 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 16:59:33,670 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:01:04,561 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:01:04,606 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:01:04,622 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:01:04,669 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:03:06,258 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 17:03:06,258 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 17:03:09,115 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:03:09,131 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:03:09,131 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:03:09,131 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:04:51,452 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:04:51,458 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:04:51,460 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:04:51,465 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:04:55,920 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:04:55,952 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:04:55,959 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:04:55,983 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:05:08,764 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 17:05:08,765 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 17:05:14,682 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:05:14,696 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:05:14,704 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:05:14,712 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:13:17,164 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:13:17,179 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:13:17,179 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:13:17,197 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:31:45,337 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:31:45,368 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:31:45,368 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:31:45,384 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:35:01,584 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:35:01,600 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:35:01,600 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:35:01,618 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:35:10,720 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:35:10,751 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:35:10,751 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:35:10,766 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:36:17,740 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:36:17,766 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:36:17,766 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:36:17,766 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:36:57,306 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:36:57,331 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:36:57,336 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:36:57,336 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:37:21,987 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:37:22,018 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:37:22,024 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:37:22,035 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:38:00,897 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:38:00,912 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:38:00,912 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:38:00,928 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:38:42,117 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:38:42,132 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:38:42,132 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:38:42,132 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:39:18,812 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 17:39:18,828 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 17:40:05,196 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:40:05,212 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:40:05,227 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:40:05,240 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:40:07,076 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:40:07,091 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:40:07,107 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:40:07,123 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:40:31,913 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:40:31,928 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:40:31,946 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:40:31,956 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:42:50,625 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:42:50,648 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:42:50,655 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:42:50,670 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:43:23,636 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:43:23,636 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:43:23,652 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:43:23,652 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:43:38,295 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 17:43:38,295 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 17:44:23,651 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:44:23,678 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:44:23,684 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:44:23,688 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 17:44:25,462 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:44:25,482 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 17:44:25,482 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 17:44:25,482 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:00:49,293 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:00:49,308 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:00:49,324 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:00:49,324 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:10:10,645 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 18:10:10,645 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 18:10:19,377 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:10:19,392 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:10:19,408 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:10:19,424 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:13:34,052 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 18:13:34,052 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 18:13:45,548 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:13:45,563 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:13:45,573 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:13:45,579 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:16:57,168 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:16:57,184 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:16:57,184 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:16:57,184 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:18:53,496 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 18:18:53,496 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 18:19:01,913 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:19:01,924 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:19:01,933 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:19:01,944 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:33:37,387 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:33:37,396 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:33:37,420 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:33:37,445 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:34:23,981 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI
+2018-11-04 18:34:23,981 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-11-04 18:35:31,100 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:35:31,116 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:35:31,121 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:35:31,127 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources
+2018-11-04 18:35:32,959 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:35:32,969 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\main\resources
+2018-11-04 18:35:32,970 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-11-04 18:35:32,978 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Rooh\Desktop\172new\hw2\KarafTwitterAPI\src\test\resources

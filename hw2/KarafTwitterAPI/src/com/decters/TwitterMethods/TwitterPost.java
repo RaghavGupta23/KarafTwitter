@@ -1,0 +1,75 @@
+//@Author Raghav Gupta
+	
+package com.decters.TwitterMethods;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
+
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.DefaultHttpClient;
+
+import oauth.signpost.exception.OAuthCommunicationException;
+import oauth.signpost.exception.OAuthExpectationFailedException;
+import oauth.signpost.exception.OAuthMessageSignerException;
+
+public class TwitterPost {
+
+	@SuppressWarnings({ "resource", "deprecation" })
+	public HttpResponse executeHttpPost(String twitApiLink) throws OAuthMessageSignerException,
+			OAuthExpectationFailedException, OAuthCommunicationException, IOException {
+		HttpPost request = new HttpPost(twitApiLink);
+		Auth.Authentication().sign(request);
+		HttpClient client = new DefaultHttpClient();
+		HttpResponse response = client.execute(request);
+		return response;
+	}
+	
+	// @Author Tahsin
+	public List<String> createFriendship(String screen_name) {
+		List<String> ResponseList = new ArrayList<String>();
+		try {
+			String twitApiLink ="https://api.twitter.com/1.1/friendships/create.json";
+			twitApiLink = twitApiLink + "?user_id=" + screen_name.replace(" ", "%20");; //Appending API url with the user's screen name
+
+			HttpResponse apiResponse = executeHttpPost(twitApiLink);
+
+			if (200 == apiResponse.getStatusLine().getStatusCode()) {
+				ResponseList.add("API call was Successful. Following User: "+ screen_name);
+				System.out.println("200 OK");
+			} else {
+				ResponseList.add("API call was Unsuccessful");
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return ResponseList;
+	}
+	
+	// @Author Tahsin
+	public List<String> destroyfriendship(String screen_name) {
+		List<String> ResponseList = new ArrayList<String>();
+		try {
+			String twitApiLink ="https://api.twitter.com/1.1/friendships/destroy.json";
+
+			
+			twitApiLink = twitApiLink + "?user_id=" + screen_name;
+
+			HttpResponse apiResponse = executeHttpPost(twitApiLink);
+
+			if (200 == apiResponse.getStatusLine().getStatusCode()) {
+				ResponseList.add("API call was Successful. Destroyed User id: "+ screen_name);
+				System.out.println("200 OK");
+			} else {
+				ResponseList.add("API call was Unsuccessful");
+			}
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return ResponseList;
+	}
+
+
+}
